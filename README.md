@@ -1,0 +1,2 @@
+# bin
+some scripts
